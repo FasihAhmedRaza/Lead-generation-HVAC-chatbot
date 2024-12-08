@@ -31,6 +31,6 @@
   },
   "devDependencies": {
     "@types/dialogflow-fulfillment": "^0.6.1",
-    "@types/node": "^20.12.7"
+    "@types/node": "*"
   }
 }
