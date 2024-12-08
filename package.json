@@ -4,11 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "engines": {
-    "node": "20.x.x"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
@@ -30,7 +26,6 @@
     "sheetdb-node": "^0.0.12"
   },
   "devDependencies": {
-    "@types/dialogflow-fulfillment": "^0.6.1",
-    "@types/node": "*"
+    "@types/dialogflow-fulfillment": "^0.6.1"
   }
 }
