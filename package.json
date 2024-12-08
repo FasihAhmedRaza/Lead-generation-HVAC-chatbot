@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "engines": {
-    "node": "22.x.x"
+    "node": "20.x.x"
   },
   "author": "",
   "license": "ISC",
@@ -30,6 +30,7 @@
     "sheetdb-node": "^0.0.12"
   },
   "devDependencies": {
-    "@types/dialogflow-fulfillment": "^0.6.1"
+    "@types/dialogflow-fulfillment": "^0.6.1",
+    "@types/node": "^20.12.7"
   }
 }
